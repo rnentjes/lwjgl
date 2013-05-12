@@ -2,63 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe92fb49-77f7-473b-a363-63065e3410b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/OpenAL32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/OpenAL64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/PNGDecoder.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/jinput-dx8.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/jinput-dx8_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/jinput-raw.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/jinput-raw_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jinput.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/libjinput-linux.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/libjinput-linux64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/macosx/libjinput-osx.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/macosx/liblwjgl.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/liblwjgl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/solaris/liblwjgl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/liblwjgl64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/solaris/liblwjgl64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/libopenal.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/solaris/libopenal.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/linux/libopenal64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/solaris/libopenal64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/lwjgl.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lwjgl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/windows/lwjgl64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lwjgl_util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/native/macosx/openal.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/slf4j-simple-1.7.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/util/IOUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/shader/Program.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/Shake.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/TexturedVertex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/TheQuadExampleUpdateVBO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shaders/fragment_textured.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lwjgl.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shaders/point.frag" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shaders/point.vert" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shaders/vertex_textured.glsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lwjgl.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368271801280" ignored="false" />
     <file path="/Program.java" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368271465203" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaAngels/src/nl/astraeus/angels/test/TestMovement.java" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368268863974" ignored="false" />
-    <file path="/Dummy.txt" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368272497167" ignored="false" />
+    <file path="/Dummy.txt" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368367118169" ignored="false" />
     <file path="/ShaderHandler.java" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368267984085" ignored="false" />
     <file path="/IOUtil.java" changelist="fe92fb49-77f7-473b-a363-63065e3410b3" time="1368268360948" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,6 +26,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -111,7 +63,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -125,9 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/shader/Program.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="85" column="37" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -153,7 +102,7 @@
       <file leaf-file-name="TheQuadExampleUpdateVBO.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/TheQuadExampleUpdateVBO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="23" selection-start="857" selection-end="857" vertical-scroll-proportion="0.4556701">
+            <state line="33" column="23" selection-start="857" selection-end="857" vertical-scroll-proportion="0.017772513">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,9 +132,7 @@
         <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/util/IOUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="46" column="0" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -256,7 +203,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -271,8 +218,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -459,7 +406,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaAngels" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -528,19 +475,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -567,6 +501,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -644,6 +591,11 @@
       <created>1368266556875</created>
       <updated>1368266556875</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1368272531410</created>
+      <updated>1368272531411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -662,7 +614,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -670,11 +621,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947442" sideWeight="0.59708196" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40291807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40291807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -720,7 +672,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -734,6 +686,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -746,9 +699,7 @@
     <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/util/IOUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="8" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -762,9 +713,7 @@
     <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/shader/Program.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="5" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -797,9 +746,7 @@
     <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/util/IOUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -813,9 +760,7 @@
     <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/shader/Program.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="37" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -849,14 +794,12 @@
     </entry>
     <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/text/Format.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="0.09003601">
-          <folding />
-        </state>
+        <state line="6" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="0.09003601" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nl/astraeus/lwjgl/test/TheQuadExampleUpdateVBO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="23" selection-start="857" selection-end="857" vertical-scroll-proportion="0.4556701">
+        <state line="33" column="23" selection-start="857" selection-end="857" vertical-scroll-proportion="0.017772513">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
